@@ -1,7 +1,7 @@
 # Churn Prediction for Telecom Company
 
 
-<center><img width="90%" src="http://images.unsplash.com/photo-1520033906782-1684d0e7498e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"></center>
+<center><img width="60%" src="http://images.unsplash.com/photo-1520033906782-1684d0e7498e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"></center>
 
 
 Photo by <a href="https://unsplash.com/@jasmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Jasmund</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
