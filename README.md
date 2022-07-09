@@ -19,7 +19,7 @@ Retaining customers can be easier than attracting new ones since these are likel
 
 ## Results
 
-The entire process is detailed and coded in the notebooks: [PT](https://github.com/marinavillaschi/churn-prediction/blob/main/Churn_prediction_for_telecom_company.ipynb) or [EN](https://github.com/marinavillaschi/churn-prediction/blob/main/Previsão_de_churn_para_empresa_de_telecom.ipynb)
+The entire process is detailed and coded in the notebooks: [PT](https://github.com/marinavillaschi/churn-prediction/blob/main/Previsão_de_churn_para_empresa_de_telecom.ipynb) or [EN](https://github.com/marinavillaschi/churn-prediction/blob/main/Churn_prediction_for_telecom_company.ipynb)
 
 Also, a blog post of the findings is available [here](https://pandascouple.medium.com/previs%C3%A3o-de-churn-para-empresa-de-telecomunica%C3%A7%C3%B5es-24ca486c3e50).
 
